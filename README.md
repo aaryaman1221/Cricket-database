@@ -1,5 +1,3 @@
-<img width="1470" height="956" alt="Screenshot 2025-08-20 at 12 35 08 AM" src="https://github.com/user-attachments/assets/c025ce8e-19e2-489a-9d7c-7daf73b803d6" />🏏 Cricket World Cup Database System
-
 <img width="1470" height="956" alt="Screenshot 2025-08-20 at 12 34 36 AM" src="https://github.com/user-attachments/assets/d7656b25-8878-4eb2-b922-56ef3a7d0065" />
 
 A web-based Cricket Database Management System built with Flask (Python), MySQL, and HTML/CSS/JS.
