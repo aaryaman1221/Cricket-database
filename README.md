@@ -111,5 +111,3 @@ ng…]()
 
 Aryaman Sonawane
 B.Tech Information Technology, Manipal Institute of Technology
-
-Would you like me to also generate a requirements.txt file for your project so it works out-of-the-box on GitHub?
