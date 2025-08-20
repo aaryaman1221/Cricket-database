@@ -90,10 +90,7 @@ This project provides an admin dashboard to manage cricket data including player
 
 📸 Screenshots
 
-![Uploading Screenshot 2025-08-![Uploading Screenshot 2025-08-20 at 12.34.36 AM.png…]()
 20 at 12.35.08 AM.p<img width="1470" height="956" alt="Screenshot 2025-08-20 at 12 35 25 AM" src="https://github.com/user-attachments/assets/45608bbe-98ea-433d-a9ff-0141f32db8fd" /><img width="1470" height="956" alt="Screenshot 2025-08-20 at 12 35 39 AM" src="https://github.com/user-attachments/assets/af5326c8-43c6-4dfc-8da9-23fe4e7b1718" />
-
-ng…]()
 
 
 📚 Future Improvements
