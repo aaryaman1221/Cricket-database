@@ -44,6 +44,7 @@ This project provides an admin dashboard to manage cricket data including player
     Frontend: HTML, CSS, JS
     
 🚀 Setup Instructions
+    
     1. Clone the repository
     git clone https://github.com/aaryaman1221/Cricket-database.git
     cd Cricket-database
