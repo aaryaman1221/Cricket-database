@@ -39,12 +39,10 @@ This project provides an admin dashboard to manage cricket data including player
 
     Backend: Python (Flask)
 
-Database: MySQL
+    Database: MySQL
 
-Frontend: HTML, CSS, Bootstrap, Jinja2 Templates
-
-Environment: Virtualenv
-
+    Frontend: HTML, CSS, JS
+    
 🚀 Setup Instructions
     1. Clone the repository
     git clone https://github.com/aaryaman1221/Cricket-database.git
@@ -109,5 +107,5 @@ ng…]()
 
 👨‍💻 Author
 
-Aryaman Sonawane
-B.Tech Information Technology, Manipal Institute of Technology
+    Aryaman Sonawane
+    B.Tech Information Technology, Manipal Institute of Technology
